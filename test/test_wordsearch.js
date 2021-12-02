@@ -1,3 +1,6 @@
+// Horizontal: Stringify each nested array --> look for a match via regex
+// Vertical: transpose array --> stringify --> look for match via regex
+
 const chai = require('chai');
 const assert = chai.assert;
 
